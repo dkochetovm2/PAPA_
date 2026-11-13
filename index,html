@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css>
+    </head>
+<body>
+    <header>
+        <img src="https://mars.algoritmika.org/uploads/2021/01/logo_0_1611261359.svg">
+        <a href="">фото</a>
+    </header>
+    <main>
+   <h1>САЙМОЛОВ И КО</h1>
+   <img src="https://mars.algoritmika.org/uploads/2021/01/happy-family-2284698_1920%201_0_1611261360.png">
+   <img src="https://mars.algoritmika.org/uploads/2021/01/children-817368_1920%201_0_1611261360.png">
+   <img src="https://mars.algoritmika.org/uploads/2021/01/house-1158139_1920%201_0_1611261360.png">
+<h2>MI-semiy Samolovix</h2>
+    <ul>
+        <li>PAPA Alecks-ingener,arhetector</li>
+        <li>MAMAN Natalia-landshavnui dizainer,florist</li>
+        <li>Cini Dshims i Alena-forografi</li>
+        <li>pes Dshon-glavnii veselshak</li>
+        </ul>
+        <h3>libim holideu</h3>
+    </main>
+     <footer>
+       <p> телефон-</p>
+        <p>почта-</p>
+     </footer>
+</body>
+</html>
